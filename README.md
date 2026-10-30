@@ -42,9 +42,8 @@
 
 ### Phần 4 – Thông báo tổng hợp
 
-> **[#thong-bao-chung]** 📢 Chào cả nhà, mình đã setup xong không gian làm việc:
-> 1. Đã bật **Auto Sync** thư mục dự án lên Cloud, dữ liệu an toàn 100%.
-> 2. Đã gửi file báo cáo cho giảng viên đúng quyền **Viewer / Restricted**.
-> 3. `@Nam` và `@Hoa` check lại tiến độ phần việc trong channel `#02-dev` để hoàn thành nốt trước deadline nhé!
-> 
->
+ **[#thong-bao-chung]** 📢 Chào cả nhà, mình đã setup xong không gian làm việc:
+ 1. Đã bật **Auto Sync** thư mục dự án lên Cloud, dữ liệu an toàn 100%.
+ 2. Đã gửi file báo cáo cho giảng viên đúng quyền **Viewer / Restricted**.
+ 3. `@Nam` và `@Hoa` check lại tiến độ phần việc trong channel `#02-dev` để hoàn thành nốt trước deadline nhé!
+ 
